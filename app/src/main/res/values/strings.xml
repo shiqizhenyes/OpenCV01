@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCV01</string>
+    <string name="grey_picture">变灰</string>
+    <string name="recovery">恢复</string>
+</resources>
